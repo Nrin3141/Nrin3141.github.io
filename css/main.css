@@ -6,7 +6,10 @@ body {
  display: block;
  max-width: 100%;
  height: auto;
- margin: 30px auto 30px auto;
+ margin-top: 30px;
+ margin-right: auto; 
+ margin-bottom: 30px;
+ margin-left: auto;
 }
 .seperation-border{
  border-bottom:10px solid rgb(30,30,30);
